@@ -11,7 +11,6 @@ Designs are a very important aspect when it comes to development
 
 Made with the intention of guiding beginner contributors towards open source, this respository is going to be maintained by: [aliazam1291](https://github.com/aliazam1291).
 
-✨ Add metamask which comes under the blockchain technology 
 
 # Contribution Guide
 
